@@ -26,6 +26,13 @@ My inclination on both aspects of technologies, the technicals and the humanitie
 
 [Download My CV](https://munirrani.github.io/assets/pdf/CV.pdf)
 
+### Interests
+
+- Blockchain
+- Artificial Intelligence
+- Data Science
+- Ethics in Technology
+
 ### Education
 
 <ins>Bachelor of Computer Science (Software Engineering)</ins>  
@@ -132,6 +139,7 @@ In this Twtiter Spaces, perspective of Web3 as a student are shared in terms of 
 
 - AWS Acadecmy Cloud Foundations
 
-### Scholarships
+### Hobbies
 
-- Program Ijazah Dalam Negara 2020 - Jabatan Perkhidmatan Awam (JPA)
+- Reading – Checkout my [Goodreads book reading list](https://www.goodreads.com/user/show/82802733-munir-rani)
+- Photography – Checkout my [Unsplash account](https://unsplash.com/munirrani)

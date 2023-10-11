@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Graudate based in Kuala Lumpur
+subtitle: Computer Science graudate based in Kuala Lumpur
 
 profile:
   align: right

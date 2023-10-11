@@ -141,5 +141,5 @@ In this Twtiter Spaces, perspective of Web3 as a student are shared in terms of 
 
 ### Hobbies
 
-- Reading – Checkout my [Goodreads book reading list](https://www.goodreads.com/user/show/82802733-munir-rani)
-- Photography – Checkout my [Unsplash account](https://unsplash.com/munirrani)
+- Reading – [Goodreads book reading list](https://www.goodreads.com/user/show/82802733-munir-rani)
+- Photography – [Unsplash account](https://unsplash.com/munirrani)

@@ -24,7 +24,7 @@ To make active contributions and be directly involved, outside of the university
 
 My inclination on both aspects of technologies, the technicals and the humanities, has led me to believe that successful production and consumption of computer technologies could not be achieved without placing humans as the central focus. With emerging digital technologies like Artificial Intelligence, Blockchain and Data Science, such emphasis is needed for the harmonization of these tools in society for the forthcoming future.
 
-[Download My CV](https://github.com/munirrani/munirrani.github.io/blob/main/assets/pdf/CV.pdf)
+[Download My CV](https://munirrani.github.io/assets/pdf/CV.pdf)
 
 ### Education
 

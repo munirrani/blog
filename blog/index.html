@@ -20,7 +20,7 @@ pagination:
 
   {% if blog_name_size > 0 or blog_description_size > 0 %}
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
+    <h1><i>{{ site.blog_name }}</i></h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
@@ -97,8 +97,13 @@ pagination:
   <ul class="post-list">
     {% for post in paginator.posts %}
 
+
     {% if post.external_source == blank %}
-      {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
+      {% if post.custom_read_time != blank %}
+        {% assign read_time = post.custom_read_time %}
+      {% else %}
+        {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
+      {% endif %}
     {% else %}
       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
     {% endif %}

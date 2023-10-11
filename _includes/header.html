@@ -8,7 +8,7 @@
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
-                <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
+                <span>{{- site.first_name -}}&nbsp;</span>
               {%- endif -%}
               {%- if site.middle_name -%}
                 {{- site.middle_name -}}&nbsp;
@@ -43,6 +43,8 @@
                 {% endif %}
               {% endfor %}
 
+              {% if site.blog_nav_title %}
+
               <!-- About -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
@@ -51,7 +53,7 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_nav_title %}
+              
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}

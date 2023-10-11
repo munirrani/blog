@@ -19,6 +19,10 @@ strong {
   color: var(--global-text-color);
 }
 
+body {
+  font-family:'Lora', serif;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -167,7 +171,6 @@ blockquote {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
 
     p {
       display: inline-block;
@@ -350,11 +353,12 @@ blockquote {
 
 .social {
   text-align: center;
+  margin-top: 2rem;
 
   .contact-icons {
-    font-size: 4rem;
 
     a {
+      font-size: 1.7rem;
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
@@ -476,7 +480,6 @@ footer.sticky-bottom {
   padding-bottom: 3rem;
 
   h1 {
-    color: var(--global-theme-color);
     font-size: 5rem;
   }
 }
@@ -494,7 +497,8 @@ footer.sticky-bottom {
     li {
       list-style: none;
       display: inline-block;
-      padding: 1rem 0.5rem;
+      padding: 0.75rem 0.4rem;
+      font-size: 0.75rem;
       color: var(--global-text-color-light);
     }
   }

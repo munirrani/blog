@@ -16,13 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Computer technologies have always been my forte. As a young 12 year-old child, I used to tinker with the inner workings of computers – desktop, laptop, smartphones and tablets alike — on both hardware and software parts. Casual activities such as installing Android custom ROMs, custom kernels and different desktop operating systems, interacting with computer hobbyists on online forums like XDA Developers, using terminal, compiling software, and writing code, has provided me with a decent technical foundation.
+Computer technologies have always been my forte. As a young 12 year-old child, I tinkered with the inner workings of computers – desktop, laptop, smartphones and tablets alike — on both hardware and software parts. Casual activities such as installing Android custom ROMs, custom kernels and different desktop operating systems, interacting with computer hobbyists on online forums, using terminal, compiling software, and writing code, has provided me a technical foundation on the intricacies of such a tool.
 
-At the age 18 entering university, I also began developing a deep passion in philosophies, religion, history, literatures, business and the social sciences. As a pastime, reading books and listening to podcasts and online discussions around such topics, in tandem with those related to technology and computers, kept me intellectually engaged.
+At the age 18 entering university, I also began developing a deep passion in philosophies, religion, entrepreneurship, economics, psychology and social sciences. As a pastime, reading books and listening to online discussions around such topics, in tandem with those related to technology and computers, has been keeping me intellectually engaged.
 
-To make active contributions and be directly involved, outside of the university academic scenario I participated in hackathons, tech-related events, giving talks, build side projects and joining organizations.
+To make active contributions and be directly involved outside of the university academic scenario, I participated in hackathons/competitions, events and other side projects. I occasionally like building simple applications or computer programs whenever an idea emerged from random thought. I also gave talks to university students when given a platform to share ideas.
 
-My inclination on both aspects of technologies, the technicals and the humanities, has led me to believe that successful production and consumption of computer technologies could not be achieved without placing humans as the central focus. With emerging digital technologies like Artificial Intelligence, Blockchain and Data Science, such emphasis is needed for the harmonization of these tools in society for the forthcoming future.
+My inclination on both aspects of technologies: technicals and humanities, has led me to believe that successful production and consumption of computer technologies could not be achieved without placing human intellect and spirituality as the primary focus. With emerging digital technologies like Artificial Intelligence, Blockchain and Data Science, such emphasis is needed for the harmonization of these tools in society for the forthcoming future.
 
 [Download My CV](https://munirrani.github.io/assets/pdf/CV.pdf)
 

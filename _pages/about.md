@@ -72,7 +72,7 @@ _July 2022 — June 2023_
 <ins>2nd place out of 13 at UTHM Digital Entrepreneurship Mobile App Competition</ins>  
 _October 2022_
 
-- Developed a Non-Fungible Token (NFT) marketplace in mobile app, allowing users to mint, sell and buy them.
+- Developed a prototype of a Non-Fungible Token (NFT) marketplace in mobile app, allowing users to mint, sell and buy them.
 - Technologies used: React Native, Ethereum blockchain, WalletConnect library.
 - [Documented problems faced here](https://mirror.xyz/munirrani.eth/RDGfUE_2HLEsPTx_d5XqEDHPHMrOCii6PgCRbk-PHqg)
 

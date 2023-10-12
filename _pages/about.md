@@ -97,12 +97,12 @@ _October 2022_
 ### Featured Talks
 
 [1. Blockchain 101 - YouTube](https://youtu.be/KrPjY0yo-3o)  
-Became a guest in a podcast discussing about the technicalities of blockchain and cryptocurrency, as well as addressing common public inquiries about of it.
+Became a guest in a podcast discussing about the technicalities of blockchain and cryptocurrency, as well as addressing common public inquiries about it.
 
 [<img src="https://img.youtube.com/vi/KrPjY0yo-3o/0.jpg" alt="Blockchain 101" width="400"/>](https://youtu.be/KrPjY0yo-3o)
 
 [2. Students in Web3 - 3six9 Twitter Spaces](https://twitter.com/i/spaces/1MnxnpZnljEGO)  
-In this Twtiter Spaces, perspective of Web3 as a student are shared in terms of learning resources and how to get involved in this field.
+In this Twtiter Spaces, perspective of Web3 as a student are shared in terms of learning resources and how to get involved in this emerging field.
 
 [<img src="https://pbs.twimg.com/media/Ft_J8gAaEAAnDfe?format=jpg&name=medium" alt="Students in Web3 - 3six9 Twitter Spaces" width="400"/>](https://twitter.com/i/spaces/1MnxnpZnljEGO)
 
@@ -134,6 +134,8 @@ In this Twtiter Spaces, perspective of Web3 as a student are shared in terms of 
 - Google Firebase
 - MongoDB
 - Docker
+- C
+- Java
 
 ### Courses Taken
 

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://munirrani.com/sitemap.xml
+Sitemap: https://www.munirrani.com/sitemap.xml

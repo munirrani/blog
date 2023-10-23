@@ -5,6 +5,7 @@ date: 2023-10-23
 description: When reflecting upon the relation of knowledge with streams of human history, we can gain recognition on the significance of preserving it and the consequence of its death.
 tags: philosophy
 thumbnail: assets/img/2023-10-23-1.jpg
+og_image: https://raw.githubusercontent.com/munirrani/munirrani.github.io/main/assets/img/2023-10-23-1.jpg
 ---
 
 When reflecting upon the relation of knowledge with streams of human history, we can gain recognition on the significance of preserving it and the consequence of its death.

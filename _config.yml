@@ -269,6 +269,7 @@ display_tags: [
     "blockchain",
     "ai",
     "data science",
+    "puisi",
   ] # these tags will be displayed on the front page of your blog
 # display_categories: ["bahasa melayu", "english"] # these categories will be displayed on the front page of your blog
 

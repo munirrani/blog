@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-[Download CV](https://www.munirrani.com/assets/pdf/CV.pdf)
+[Download Resume](https://www.munirrani.com/assets/pdf/Resume.pdf)
 
 ### Interests
 
